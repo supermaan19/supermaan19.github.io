@@ -1,2 +1,2 @@
-#WELCOME TO GITHUB PAGE
+WELCOME TO GITHUB PAGE
 this is my github page
